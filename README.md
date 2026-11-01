@@ -1,5 +1,5 @@
 # Power Method
-A Python implementation of the Power Method (Power Iteration) to approximate the dominant eigenvalue and its corresponding eigenvector of a n×n square matrix.
+A Python implementation of the **(Power Method (Power Iteration))** to approximate the dominant eigenvalue and its corresponding eigenvector of a n×n square matrix.
 
 #  Overview
 In this project, I implemented the method using basic Python operations without relying on external numerical libraries.
